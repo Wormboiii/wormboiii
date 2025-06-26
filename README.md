@@ -1,5 +1,6 @@
 ## 👋안녕하세요, 설원혁입니다.
 ### 🪛 **Skills**
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <!--
 **Wormboiii/wormboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
