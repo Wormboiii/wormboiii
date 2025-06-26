@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋안녕하세요, 설원혁입니다.
+## 👋Welcome, I go by WonHyeok Seol.
 
 <!--
 **Wormboiii/wormboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
