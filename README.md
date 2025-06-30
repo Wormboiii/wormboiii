@@ -9,7 +9,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-**APM / Server / IOT**
+**APM / Server / IoT**
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
