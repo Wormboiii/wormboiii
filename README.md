@@ -31,7 +31,8 @@
 **3D Printing / CAD**
 
 ![Fusion360](https://img.shields.io/badge/Fusion360-000000?style=for-the-badge&logo=autodesk&logoColor=white)
-
+![Sindoh](https://img.shields.io/badge/Sindoh-396CB2.svg?style=for-the-badge&logo=Sindoh&logoColor=white)
+![Cubicon](https://img.shields.io/badge/Cubicon-76BB21.svg?style=for-the-badge&logo=Cubicon&logoColor=white)
 
 <!--
 **Wormboiii/wormboiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
