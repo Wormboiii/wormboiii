@@ -8,7 +8,7 @@
 ![CubeIDE](https://img.shields.io/badge/CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FE6A1F.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0052CC.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
 
 **APM / Server / IoT**
 
