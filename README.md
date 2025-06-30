@@ -1,13 +1,14 @@
 ## 👋안녕하세요, 설원혁입니다.
 ### 🪛 **Skills**
 ---------------------------------------------------------------------------------------------------------------
-**Circuit Design / Artwork / Embedded / FPGA**
+**[E.E.] Circuit Design / Artwork / Embedded / FPGA**
 
 ![LTSPICE](https://img.shields.io/badge/LTSPICE-900028?style=for-the-badge&logo=ltspice&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![CubeIDE](https://img.shields.io/badge/CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FE6A1F.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
 
 **APM / Server / IoT**
 
